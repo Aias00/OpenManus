@@ -2,6 +2,6 @@
 [llm]
 model = "gpt-4o-mini"
 base_url = "https://openiapi.com/v1"
-api_key = "sk-ySxOaSp6ugzTasVZqIoueNrvZcwnzNpwdZk8HAFqY1NqPDpF"
+api_key = "sk-"
 max_tokens = 4096
 temperature = 0.0
